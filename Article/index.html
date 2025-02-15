@@ -51,9 +51,9 @@
         become one of the most used technologies ever.</p>
     <hr />
     <img src="https://avatars.mds.yandex.net/i?id=cba29f3dfc730fd08618450e0abf0cd98217b6d7-3693917-images-thumbs&n=13"
-        alt="" width="49.85%" height="450px">
+        alt="" width="49%" height="450px">
     <img src="https://avatars.mds.yandex.net/i?id=1c0042aaa0ad2a9d514ca2c68e89b0eeee232338-12496607-images-thumbs&n=13"
-        alt="" width="49.85%" height="450px">
+        alt="" width="49%" height="450px">
     <hr />
 
     <p>Frontend refers to the part of a software application or website that users interact with directly. It
@@ -70,11 +70,11 @@
         frameworks like Django, Flask, Spring Boot, Ruby on Rails, or Express.js. It also involves working with
         databases such as MySQL, PostgreSQL, MongoDB, or SQLite to store and manage data.</p>
     <hr />
-    <img src="https://civilian.com/wp-content/uploads/2015/09/html5-1.jpg" alt="" width="33.13%" height="350px">
+    <img src="https://civilian.com/wp-content/uploads/2015/09/html5-1.jpg" alt="" width="33%" height="350px">
     <img src="https://avatars.mds.yandex.net/i?id=f4c7b25343526deb485d7581bbae4fc364e44edf54faf40c-5674505-images-thumbs&n=13"
-        alt="" width="33.13%" height="350px">
+        alt="" width="33%" height="350px">
     <img src="https://avatars.mds.yandex.net/i?id=214646b4e47bcbca425444170e6c0e724bee23ff-13088179-images-thumbs&n=13"
-        alt="" width="33.13%" height="350px">
+        alt="" width="33%" height="350px">
     <hr />
     <P align="justify">HyperText Markup Language or HTML is the standard markup language for documents designed to be
         displayed in a web
@@ -112,13 +112,13 @@
                 much more.</P>
             <hr />
             <img src="https://avatars.mds.yandex.net/i?id=bf90bb4914e1e1e210ebe33610de37873a19ac31-3481141-images-thumbs&n=13"
-                alt=" " width="24.70%" height="250px">
+                alt=" " width="24%" height="250px">
             <img src="https://avatars.mds.yandex.net/i?id=2490f08118a0a30cb7e0c6991ce0e077d1cd0b2e-12569441-images-thumbs&n=13"
-                alt="" width="24.70%" height="250px">
+                alt="" width="24%" height="250px">
             <img src="https://avatars.mds.yandex.net/i?id=c6056575a42db8e1e3255a95d1f818e5fc224522-9240642-images-thumbs&n=13"
-                alt="" width="24.70%" height="250px">
+                alt="" width="24%" height="250px">
             <img src="https://avatars.mds.yandex.net/i?id=3b8d59ead909f22bf3c76080af435c9786b1da38-9144630-images-thumbs&n=13"
-                alt="" width="24.70%" height="250px">
+                alt="" width="24%" height="250px">
             <hr />
             <p align="justify">Java is a programming language and computing platform first released by Sun Microsystems
                 in 1995. It has
